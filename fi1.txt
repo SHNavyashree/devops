@@ -2,4 +2,3 @@ hello
 am writing into fi1.txt
 changws made by person dv2
 changws made by person
-changes made for git revert
