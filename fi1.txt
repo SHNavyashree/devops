@@ -1,0 +1,2 @@
+hello
+am writing into fi1.txt file
