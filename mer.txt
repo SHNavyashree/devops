@@ -1,0 +1,3 @@
+hello
+am in mer.txt file
+to explore about merge concept 
