@@ -1,6 +1,0 @@
-hello
-am in sh file
-to explore abt git stash
-
-
-hello i need to revert
