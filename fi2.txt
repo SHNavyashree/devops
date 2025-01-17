@@ -1,2 +1,0 @@
-hello
-this is fi2.txt file
